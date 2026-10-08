@@ -1,0 +1,39 @@
+
+---
+description: Frontend capstone development guidelines
+alwaysApply: true
+---
+
+# FlyRank Frontend Capstone Rules
+
+## Technology Stack
+- HTML5, CSS3, and JavaScript
+- Node.js LTS and npm
+- Git and GitHub
+- Cursor AI
+- React only when required by the project
+
+## Coding Conventions
+- Write clean, readable, maintainable code.
+- Use semantic HTML and accessible components.
+- Follow responsive, mobile-friendly design principles.
+- Use clear and consistent file and variable names.
+- Avoid unnecessary dependencies and features.
+- Keep code organized and reusable.
+
+## AI Development Guidelines
+- Understand requirements before writing code.
+- Explain important technical decisions.
+- Do not invent test results or functionality.
+- Review and test AI-generated code.
+- Ask for clarification when necessary.
+- Never expose passwords, API keys, or secrets.
+
+## Git Conventions
+- Follow Conventional Commits.
+- Use prefixes such as feat:, fix:, docs:, and chore:.
+- Keep commits focused and descriptive.
+
+## Project Goal
+Build a professional frontend capstone through
+responsible AI-assisted development.
