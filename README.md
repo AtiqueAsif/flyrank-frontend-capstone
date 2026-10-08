@@ -36,7 +36,7 @@ Later milestones will add the frontend application and run instructions.
 - Maintain clear project documentation.
 
 ## Project Status
-Local development environment configured with Node.js, Git, and Cursor AI. GitHub repository publication is pending. Capstone application development has not started.
+Local development environment configured with Node.js, Git, and Cursor AI. The GitHub repository has been published successfully. Capstone application development has not started.
 
 ## Author
 Md. Atique Asif
